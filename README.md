@@ -17,8 +17,11 @@ Database Configuration
 For User
 
 -> Open Your browser put inside browser “http://localhost/library”
+
 -> Login Details for user: 
+
 -> Username: basude@gmail.com
+
 -> Password: Test@123
 
 For Admin Panel
